@@ -8,3 +8,5 @@ faiss-cpu
 langchain-groq
 wikipedia
 arxiv
+langgraph
+langgraph-cli[inmem]
