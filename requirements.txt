@@ -10,3 +10,4 @@ wikipedia
 arxiv
 langgraph
 langgraph-cli[inmem]
+python-dotenv
